@@ -65,6 +65,7 @@
 1. With our headings created and committed, Mona should be busy reviewing your work and preparing the next steps.
 
 <details>
+   
 <summary>Having trouble? 🤷</summary><br/>
 
 - Confirm you are editing the correct file and branch.
